@@ -26,4 +26,4 @@ Actualmente desarrollo un sistema de **gestión de repuestos para motocicletas**
 ⭐ **Dato curioso:** ¡Me encanta aprender nuevas tecnologías y ayudar a otros a hacerlo también!
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuderSolis&show_icons=true&theme=tokyonight)
+
