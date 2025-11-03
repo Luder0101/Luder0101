@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luder Solis
 
-<!--
-**Luder0101/Luder0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web apasionado por crear soluciones prácticas y modernas.  
+Actualmente trabajo con **Oracle, PLSQL, JavaScript, Node.js, React y SQL Server**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que uso
+- 💻 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express, Strapi
+- 🗄️ Base de datos: SQL Server, MySQL, Oracle
+- 🧠 Otros: Git, API REST, JSON
+
+---
+
+### 🌱 En qué estoy trabajando
+Actualmente desarrollo un sistema de **gestión de repuestos para motocicletas** con frontend y backend integrados.
+
+---
+
+### 📫 Cómo contactarme
+- ✉️ Email: solismendezsantiago18@gmail.com   
+- 💼 [LinkedIn](https://www.linkedin.com/in/luder-solis-7525b91b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+---
+
+⭐ **Dato curioso:** ¡Me encanta aprender nuevas tecnologías y ayudar a otros a hacerlo también!
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuderSolis&show_icons=true&theme=tokyonight)
